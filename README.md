@@ -96,11 +96,11 @@ rfm["M_Score"] = pd.qcut(
 
 Add screenshots of your Power BI report below.
 
-![Business Overview Dashboard](images/business-overview.png)
+![RFM Analysis Dashboard](https://github.com/satyamkale09/IKEA/blob/main/Images/IKEA_RFM_page.jpg)
 
-![RFM Analysis Dashboard](images/rfm-analysis.png)
+![Business Overview Dashboard](https://github.com/satyamkale09/IKEA/blob/main/Images/IKEA_Overview_page.jpg)
 
-*Replace these paths with your actual screenshot filenames.*
+
 
 ## 💡 Key Learnings
 
